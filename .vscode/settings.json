@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dirent.h": "c",
+        "unordered_map": "cpp"
+    }
+}
