@@ -3,7 +3,10 @@
         "dirent.h": "c",
         "unordered_map": "cpp",
         "cstdio": "c",
-        "thread.h": "c"
+        "thread.h": "c",
+        "thread-sync.h": "c",
+        "unistd.h": "c",
+        "string.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
